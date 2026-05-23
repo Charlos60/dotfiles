@@ -42,7 +42,7 @@ if [ ! -d "$HOME/.local/share/omarchy" ]; then
   echo "  Clonando omarchy-on-cachyos..."
   git clone https://github.com/mroboff/omarchy-on-cachyos.git /tmp/omarchy-on-cachyos
   cd /tmp/omarchy-on-cachyos
-  bash bin/omarchy-on-cachyos.sh
+  bash bin/install-omarchy-on-cachyos.sh
   cd -
   rm -rf /tmp/omarchy-on-cachyos
 else
