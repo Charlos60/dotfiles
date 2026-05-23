@@ -1,0 +1,157 @@
+INFO 16/5/2026, 5:09:36 p. m.  51  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime]
+INFO 16/5/2026, 5:09:37 p. m.  163  ------------------start------------------
+DEBUG 16/5/2026, 5:09:37 p. m.  182  before setting 
+DEBUG 16/5/2026, 5:09:37 p. m.  210  prepDatabase /home/carlos/.config/Typora/profile.data
+DEBUG 16/5/2026, 5:09:37 p. m.  214  prepDatabase /home/carlos/.config/Typora/history.data
+INFO 16/5/2026, 5:09:37 p. m.  218  OS is linux 7.0.3-1-cachyos-deckify
+INFO 16/5/2026, 5:09:37 p. m.  218  launchFromDiffVersion, pre version is undefined
+INFO 16/5/2026, 5:09:37 p. m.  218  start LM in devVersion=false
+INFO 16/5/2026, 5:09:37 p. m.  230  overwriteThemeFolder
+DEBUG 16/5/2026, 5:09:37 p. m.  233  after setting 
+INFO 16/5/2026, 5:09:37 p. m.  233  typora version: 1.13.4
+DEBUG 16/5/2026, 5:09:37 p. m.  277  app.openFile
+INFO 16/5/2026, 5:09:37 p. m.  280  [watch L]
+DEBUG 16/5/2026, 5:09:37 p. m.  280  prepDatabase /home/carlos/.config/Typora/awYQnRWXbu
+INFO 16/5/2026, 5:09:37 p. m.  283  no info
+INFO 16/5/2026, 5:09:37 p. m.  283  ls put SLicense
+DEBUG 16/5/2026, 5:09:37 p. m.  283  onUnfillLicense
+DEBUG 16/5/2026, 5:09:37 p. m.  283  trailRemains is 15
+INFO 16/5/2026, 5:09:37 p. m.  284  [L] installDate is 5/16/2026, trail remains: 15 days
+DEBUG 16/5/2026, 5:09:37 p. m.  284  onUnfillLicense
+INFO 16/5/2026, 5:09:37 p. m.  284  [watch L] hasL: false
+DEBUG 16/5/2026, 5:09:37 p. m.  331  added recovery 1 null  (0)
+DEBUG 16/5/2026, 5:09:37 p. m.  349  putAccelerator File -> Archivo(&F)
+DEBUG 16/5/2026, 5:09:37 p. m.  351  putAccelerator Edit -> &Editar
+DEBUG 16/5/2026, 5:09:37 p. m.  351  putAccelerator Paragraph -> &Párrafo
+DEBUG 16/5/2026, 5:09:37 p. m.  351  putAccelerator Format -> F&ormato
+DEBUG 16/5/2026, 5:09:37 p. m.  351  putAccelerator View -> &Visualización
+DEBUG 16/5/2026, 5:09:37 p. m.  352  putAccelerator Themes -> &Temas
+DEBUG 16/5/2026, 5:09:37 p. m.  352  putAccelerator Help -> Ayuda(&H)
+INFO 16/5/2026, 5:09:37 p. m.  429  synced recovery
+user-dict.json not found
+INFO 16/5/2026, 5:09:37 p. m.  503  [focus] 1
+INFO 16/5/2026, 5:09:37 p. m.  665  synced recovery
+INFO 16/5/2026, 5:09:37 p. m.  665  ----------------before-quit-----------------
+INFO 16/5/2026, 5:09:37 p. m.  665  ------------------will-quit------------------
+INFO 16/5/2026, 5:09:37 p. m.  667  -----------------quit------------------
+INFO 16/5/2026, 5:09:37 p. m.  667  closeLogging
+INFO 16/5/2026, 5:28:52 p. m.  44  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime]
+INFO 16/5/2026, 5:28:52 p. m.  125  ------------------start------------------
+DEBUG 16/5/2026, 5:28:52 p. m.  132  before setting 
+DEBUG 16/5/2026, 5:28:52 p. m.  153  prepDatabase /home/carlos/.config/Typora/profile.data
+DEBUG 16/5/2026, 5:28:52 p. m.  157  prepDatabase /home/carlos/.config/Typora/history.data
+INFO 16/5/2026, 5:28:52 p. m.  161  OS is linux 7.0.3-1-cachyos-deckify
+INFO 16/5/2026, 5:28:52 p. m.  161  start LM in devVersion=false
+DEBUG 16/5/2026, 5:28:52 p. m.  174  after setting 
+INFO 16/5/2026, 5:28:52 p. m.  174  typora version: 1.13.4
+INFO 16/5/2026, 5:28:52 p. m.  221  [watch L]
+DEBUG 16/5/2026, 5:28:52 p. m.  221  prepDatabase /home/carlos/.config/Typora/awYQnRWXbu
+INFO 16/5/2026, 5:28:52 p. m.  224  no info
+INFO 16/5/2026, 5:28:52 p. m.  224  ls put SLicense
+DEBUG 16/5/2026, 5:28:52 p. m.  224  onUnfillLicense
+DEBUG 16/5/2026, 5:28:52 p. m.  224  trailRemains is 15
+INFO 16/5/2026, 5:28:52 p. m.  225  [L] installDate is 5/16/2026, trail remains: 15 days
+DEBUG 16/5/2026, 5:28:52 p. m.  225  onUnfillLicense
+INFO 16/5/2026, 5:28:52 p. m.  225  [watch L] hasL: false
+user-dict.json not found
+DEBUG 16/5/2026, 5:28:53 p. m.  334  app.openFile
+DEBUG 16/5/2026, 5:28:53 p. m.  335  putAccelerator File -> Archivo(&F)
+DEBUG 16/5/2026, 5:28:53 p. m.  335  putAccelerator Edit -> &Editar
+DEBUG 16/5/2026, 5:28:53 p. m.  336  putAccelerator Paragraph -> &Párrafo
+DEBUG 16/5/2026, 5:28:53 p. m.  336  putAccelerator Format -> F&ormato
+DEBUG 16/5/2026, 5:28:53 p. m.  336  putAccelerator View -> &Visualización
+DEBUG 16/5/2026, 5:28:53 p. m.  336  putAccelerator Themes -> &Temas
+DEBUG 16/5/2026, 5:28:53 p. m.  336  putAccelerator Help -> Ayuda(&H)
+DEBUG 16/5/2026, 5:28:53 p. m.  377  added recovery 2 null  (0)
+INFO 16/5/2026, 5:28:53 p. m.  394  synced recovery
+INFO 16/5/2026, 5:28:53 p. m.  465  [focus] 2
+INFO 16/5/2026, 5:28:53 p. m.  573  [blur] 2
+INFO 16/5/2026, 5:28:53 p. m.  573  [win] blur
+INFO 16/5/2026, 5:28:53 p. m.  573  [focus] 1
+DEBUG 16/5/2026, 5:28:53 p. m.  956  onUnfillLicense
+ERROR 16/5/2026, 5:28:53 p. m.  969  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 16/5/2026, 5:28:53 p. m.  972  handle document.loadData
+DEBUG 16/5/2026, 5:28:53 p. m.  972  document.loadData 0
+ERROR 16/5/2026, 5:28:53 p. m.  972  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 16/5/2026, 5:28:53 p. m.  1046  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 16/5/2026, 5:28:53 p. m.  1047  [RenderProcess 2][Log] reset NodeMap
+DEBUG 16/5/2026, 5:28:53 p. m.  1061  added recovery 2   (0)
+INFO 16/5/2026, 5:28:53 p. m.  1063  synced recovery
+INFO 16/5/2026, 5:28:53 p. m.  1193  [blur] 1
+INFO 16/5/2026, 5:28:53 p. m.  1194  [focus] 2
+INFO 16/5/2026, 5:28:53 p. m.  1194  [blur] 2
+INFO 16/5/2026, 5:28:53 p. m.  1194  [win] blur
+INFO 16/5/2026, 5:28:53 p. m.  1194  [focus] 1
+INFO 16/5/2026, 5:28:53 p. m.  1203  [RenderProcess 2][Log] onBecomeActive
+INFO 16/5/2026, 5:28:53 p. m.  1203  [RenderProcess 2][Log] File.activeWindow = true
+INFO 16/5/2026, 5:28:53 p. m.  1212  [blur] 1
+INFO 16/5/2026, 5:28:53 p. m.  1212  [focus] 2
+INFO 16/5/2026, 5:28:53 p. m.  1238  [blur] 2
+INFO 16/5/2026, 5:28:53 p. m.  1238  [win] blur
+INFO 16/5/2026, 5:28:54 p. m.  1669  [focus] 1
+INFO 16/5/2026, 5:28:57 p. m.  5045  [focus] 2
+INFO 16/5/2026, 5:28:58 p. m.  5677  [blur] 2
+INFO 16/5/2026, 5:28:58 p. m.  5677  [win] blur
+INFO 16/5/2026, 5:28:59 p. m.  6295  [focus] 2
+INFO 16/5/2026, 5:28:59 p. m.  6948  synced recovery
+INFO 16/5/2026, 5:28:59 p. m.  6948  ----------------before-quit-----------------
+INFO 16/5/2026, 5:28:59 p. m.  6948  ------------------will-quit------------------
+INFO 16/5/2026, 5:28:59 p. m.  6950  -----------------quit------------------
+INFO 16/5/2026, 5:28:59 p. m.  6950  closeLogging
+INFO 21/5/2026, 3:30:46 p. m.  54  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime]
+INFO 21/5/2026, 3:30:46 p. m.  167  ------------------start------------------
+DEBUG 21/5/2026, 3:30:46 p. m.  179  before setting 
+DEBUG 21/5/2026, 3:30:46 p. m.  219  prepDatabase /home/carlos/.config/Typora/profile.data
+DEBUG 21/5/2026, 3:30:46 p. m.  226  prepDatabase /home/carlos/.config/Typora/history.data
+INFO 21/5/2026, 3:30:46 p. m.  229  OS is linux 7.0.3-1-cachyos-deckify
+INFO 21/5/2026, 3:30:46 p. m.  229  start LM in devVersion=false
+DEBUG 21/5/2026, 3:30:46 p. m.  241  after setting 
+INFO 21/5/2026, 3:30:46 p. m.  241  typora version: 1.13.4
+INFO 21/5/2026, 3:30:46 p. m.  288  [watch L]
+DEBUG 21/5/2026, 3:30:46 p. m.  288  prepDatabase /home/carlos/.config/Typora/awYQnRWXbu
+INFO 21/5/2026, 3:30:46 p. m.  291  no info
+INFO 21/5/2026, 3:30:46 p. m.  291  ls put SLicense
+DEBUG 21/5/2026, 3:30:46 p. m.  291  onUnfillLicense
+DEBUG 21/5/2026, 3:30:46 p. m.  292  trailRemains is 11
+INFO 21/5/2026, 3:30:46 p. m.  293  [L] installDate is 5/16/2026, trail remains: 11 days
+DEBUG 21/5/2026, 3:30:46 p. m.  293  onUnfillLicense
+INFO 21/5/2026, 3:30:46 p. m.  293  [watch L] hasL: false
+user-dict.json not found
+DEBUG 21/5/2026, 3:30:46 p. m.  302  app.openFile
+DEBUG 21/5/2026, 3:30:46 p. m.  303  putAccelerator File -> Archivo(&F)
+DEBUG 21/5/2026, 3:30:46 p. m.  304  putAccelerator Edit -> &Editar
+DEBUG 21/5/2026, 3:30:46 p. m.  305  putAccelerator Paragraph -> &Párrafo
+DEBUG 21/5/2026, 3:30:46 p. m.  306  putAccelerator Format -> F&ormato
+DEBUG 21/5/2026, 3:30:46 p. m.  306  putAccelerator View -> &Visualización
+DEBUG 21/5/2026, 3:30:46 p. m.  306  putAccelerator Themes -> &Temas
+DEBUG 21/5/2026, 3:30:46 p. m.  306  putAccelerator Help -> Ayuda(&H)
+DEBUG 21/5/2026, 3:30:46 p. m.  364  added recovery 1 null  (0)
+INFO 21/5/2026, 3:30:46 p. m.  441  synced recovery
+INFO 21/5/2026, 3:30:46 p. m.  526  [focus] 1
+INFO 21/5/2026, 3:30:47 p. m.  958  [blur] 1
+INFO 21/5/2026, 3:30:47 p. m.  958  [win] blur
+DEBUG 21/5/2026, 3:30:47 p. m.  1037  onUnfillLicense
+ERROR 21/5/2026, 3:30:47 p. m.  1049  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 21/5/2026, 3:30:47 p. m.  1053  handle document.loadData
+DEBUG 21/5/2026, 3:30:47 p. m.  1053  document.loadData 0
+ERROR 21/5/2026, 3:30:47 p. m.  1053  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 21/5/2026, 3:30:47 p. m.  1139  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 21/5/2026, 3:30:47 p. m.  1139  [RenderProcess 1][Log] reset NodeMap
+DEBUG 21/5/2026, 3:30:47 p. m.  1154  added recovery 1   (0)
+INFO 21/5/2026, 3:30:47 p. m.  1156  synced recovery
+INFO 21/5/2026, 3:30:47 p. m.  1282  [focus] 1
+INFO 21/5/2026, 3:30:47 p. m.  1294  [RenderProcess 1][Log] onBecomeActive
+INFO 21/5/2026, 3:30:47 p. m.  1294  [RenderProcess 1][Log] File.activeWindow = true
+INFO 21/5/2026, 3:30:49 p. m.  3609  synced recovery
+INFO 21/5/2026, 3:30:49 p. m.  3609  ----------------before-quit-----------------
+INFO 21/5/2026, 3:30:49 p. m.  3609  ------------------will-quit------------------
+INFO 21/5/2026, 3:30:49 p. m.  3612  -----------------quit------------------
+INFO 21/5/2026, 3:30:49 p. m.  3612  closeLogging

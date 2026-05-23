@@ -1,0 +1,35 @@
+# Credenciales y datos sensibles
+config/gh/
+config/spotify/
+config/chromium/
+config/pulse/
+config/dconf/
+config/fcitx/
+config/fcitx5/
+config/keybase/
+config/gnupg/
+
+# Backups de nvim
+config/nvim.backup*/
+
+# Datos de sesión y caché
+config/*/Cache/
+config/*/cache/
+config/*/logs/
+config/*/Logs/
+config/**/.cache/
+config/obsidian/.obsidian/workspace.json
+config/obsidian/.obsidian/workspace-mobile.json
+
+# Datos locales de apps (no configuración)
+config/Code/User/globalStorage/
+config/Code/User/workspaceStorage/
+config/libreoffice/4/user/backup/
+config/libreoffice/4/user/registrymodifications.xcu
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store

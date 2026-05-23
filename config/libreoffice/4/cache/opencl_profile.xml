@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+ <version>LibreOffice v1</version>
+ <device>
+  <type>opencl</type>
+  <name>AMD Radeon R5 340 (radeonsi, oland, ACO, DRM 3.64, 7.0.3-1-cachyos-deckify)</name>
+  <driver>26.0.6-arch1.1</driver>
+  <time>max</time>
+  <errors>false</errors>
+ </device>
+ <device>
+  <type>native</type>
+  <time>2072064</time>
+  <errors>false</errors>
+ </device>
+</profile>
