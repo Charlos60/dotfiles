@@ -40,7 +40,7 @@ if [ ! -d "$HOME/.local/share/omarchy" ]; then
   echo ""
   echo "▶ Omarchy no detectado. Instalando omarchy-on-cachyos..."
   echo "  Clonando omarchy-on-cachyos..."
-  git clone https://github.com/freerangebytes/omarchy-on-cachyos.git /tmp/omarchy-on-cachyos
+  git clone https://github.com/mroboff/omarchy-on-cachyos.git /tmp/omarchy-on-cachyos
   cd /tmp/omarchy-on-cachyos
   bash bin/setup.sh
   cd -
