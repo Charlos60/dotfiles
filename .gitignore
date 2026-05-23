@@ -12,6 +12,16 @@ config/gnupg/
 # Backups de nvim
 config/nvim.backup*/
 
+# VS Code - solo guardar configuración de usuario, no caché ni datos de sesión
+config/Code/CachedData/
+config/Code/CachedExtensions/
+config/Code/CachedConfigurations/
+config/Code/Backups/
+config/Code/logs/
+config/Code/User/globalStorage/
+config/Code/User/workspaceStorage/
+config/Code/User/History/
+
 # Datos de sesión y caché
 config/*/Cache/
 config/*/cache/
@@ -22,8 +32,6 @@ config/obsidian/.obsidian/workspace.json
 config/obsidian/.obsidian/workspace-mobile.json
 
 # Datos locales de apps (no configuración)
-config/Code/User/globalStorage/
-config/Code/User/workspaceStorage/
 config/libreoffice/4/user/backup/
 config/libreoffice/4/user/registrymodifications.xcu
 
